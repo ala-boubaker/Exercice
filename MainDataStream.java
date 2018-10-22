@@ -10,6 +10,8 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+
+// Main Class: Use DataOutputStream and DataInputStream to read File sdz.txt
 public class MainDataStream {
 
 	  public static void main(String[] args) {
