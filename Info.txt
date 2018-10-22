@@ -1,0 +1,1 @@
+This project shows how interesting the package DataOutputStream comparing to FileOutputStream
