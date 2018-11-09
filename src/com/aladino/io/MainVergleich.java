@@ -8,6 +8,8 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+
+//Bonjour
 public class MainVergleich {
 
 	  public static void main(String[] args) {
